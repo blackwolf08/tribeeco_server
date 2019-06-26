@@ -1,0 +1,4 @@
+node_modules/
+.env
+routes/tribeeco_key.json
+config.json
